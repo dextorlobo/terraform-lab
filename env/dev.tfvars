@@ -1,1 +1,1 @@
-
+content = "value from tfvars file"
